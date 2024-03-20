@@ -1,0 +1,52 @@
+.bg-purple {
+    background-color: #000000 !important;
+}
+
+#main a {
+    color: rgba(241, 0, 0, 0.911);
+}
+
+#main a:hover {
+    color: rgb(208, 204, 204);
+}
+
+#footer a {
+    text-decoration: none;
+    color: rgb(139, 63, 63);
+}
+
+#footer a:hover {
+    text-decoration: underline;
+    color: var(--bs-primary) !important;
+}
+
+#footer div.container{
+    color: var(--bs-primary-bg-subtle #ffbf00);
+}
+
+li a {
+    color: antiquewhite;
+}
+.navbar-nav a:hover {
+    color: #ffcc00;
+}
+
+div.carousel-slide .carousel-inner{
+    display: center;
+}
+
+.carousel-inner img {
+    margin-top: 120px; /* Sesuaikan dengan tinggi navbar */
+}
+
+h3{
+    padding-left: 34%;
+    justify-content: center ;
+}
+
+p{
+    display: flex;
+    padding-right: 2em;
+    padding-left: 2em;
+    justify-content: center;
+}
